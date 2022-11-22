@@ -1,0 +1,16 @@
+1
+2|oleg
+3|fedr
+1|sergey
+3|fedr
+4|alex
+2|oleg
+2|oleg
+1|sergey
+1|sergey
+0|artem
+0|artem
+1|sergey
+2|oleg
+1|sergey
+1|sergey
